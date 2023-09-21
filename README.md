@@ -18,11 +18,29 @@
    <img src="https://img.shields.io/badge/react kakao maps sdk-^1.1.6-ffcd00?logo=Kakao"/>
 </p>
     
-## 🌟 주요 기능
+## 🌟 주요 페이지
 
 ### 👌 관리자 기능(로그인 / 로그아웃 / 회원가입)
 
-### 👌 회원 관리
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/21376061/269550731-b1b2af0b-54ec-46da-9cf1-f41a7c541dff.png"/>
+</p>
+
+* 처음 시작하면 로그인을 통하여 관리자 페이지로 이동할 수 있습니다.
+
+  <p align='center'>
+  <img src="https://user-images.githubusercontent.com/21376061/269551190-c5affabb-ab89-450a-80ff-6cc16c0a2230.png"/>
+</p>
+
+* 로그인 하면 상단 NavBar에서 로그인한 관리자 정보를 볼 수 있고 로그아웃 할 수 있습니다.
+
+ <p align='center'>
+  <img src="https://user-images.githubusercontent.com/21376061/269550572-0ca9ea9d-dae0-40ae-a403-0d4313f8b935.png"/>
+</p>
+
+* /register 로 라우터 이동하여 새로운 관리자 아이디를 생성 할 수 있습니다.
+
+### 👌 회원/상담사 관리
 
 <p align='center'>
   <img src="https://user-images.githubusercontent.com/21376061/227169377-9636f4a5-14a6-459a-8f74-2513156860a5.png"/>
@@ -143,6 +161,8 @@
 ### 👌 이벤트 관리
 
 ### 👌 Q&A
+
+## 🌟 기능 설명
 
 ## 🌟 상태관리
 @reduxjs/toolkit 라이브러리와 react-redux 라이브러리를 활용한 상태관리
