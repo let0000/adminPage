@@ -2,7 +2,7 @@
 
 ## 🌟 서비스 소개
 <p align='center'>
-<img width='400px' src='https://user-images.githubusercontent.com/21376061/227160347-99b0d147-8c54-4bc5-b5de-2ae51e99ef48.png'>
+<img width='400px' src='[https://user-images.githubusercontent.com/21376061/227160347-99b0d147-8c54-4bc5-b5de-2ae51e99ef48.png](https://user-images.githubusercontent.com/21376061/269548370-152c50e2-14bb-4c63-a8d8-43463026a30c.png)'>
 </p>
 
    mongoDB와 연결하여 회원정보나 기타 정보들을 관리 할 수 있는 관리자용 웹 어플리케이션
