@@ -2,7 +2,7 @@
 
 ## 🌟 서비스 소개
 <p align='center'>
-<img width='400px' src='[https://user-images.githubusercontent.com/21376061/227160347-99b0d147-8c54-4bc5-b5de-2ae51e99ef48.png](https://user-images.githubusercontent.com/21376061/269548370-152c50e2-14bb-4c63-a8d8-43463026a30c.png)'>
+<img width='100%' src='https://user-images.githubusercontent.com/21376061/269548370-152c50e2-14bb-4c63-a8d8-43463026a30c.png'>
 </p>
 
    mongoDB와 연결하여 회원정보나 기타 정보들을 관리 할 수 있는 관리자용 웹 어플리케이션
@@ -20,7 +20,9 @@
     
 ## 🌟 주요 기능
 
-### 👌 위치 정보
+### 👌 관리자 기능(로그인 / 로그아웃 / 회원가입)
+
+### 👌 회원 관리
 
 <p align='center'>
   <img src="https://user-images.githubusercontent.com/21376061/227169377-9636f4a5-14a6-459a-8f74-2513156860a5.png"/>
@@ -44,7 +46,7 @@
 
 * 위치검색 버튼에 마우스를 올려 주변 원하는 장소를 검색 할 수 있습니다. 
 
-### 👌 위치 검색
+### 👌 상담사 관리
 
 <p align='center'>
   <img width='400px' src = "https://user-images.githubusercontent.com/21376061/227173782-73631056-2f50-408b-be72-3a34c2015061.png"/>
@@ -87,7 +89,7 @@
 * 열기 버튼을 통해 리스트를 다시 나타낼 수 있습니다.
 
 
-### 👌 날씨 정보
+### 👌 매출 내역
 
 <p align='center'>
   <img src = "https://user-images.githubusercontent.com/21376061/227177132-666b2cbe-e7ee-4804-b911-05d422c1e7b0.png"/>
@@ -97,7 +99,7 @@
 * openwatherMap API 를 통해 위도와 경도값으로 현재 날씨와 기온을 받아 올 수 있습니다.
 
 
-### 👌 GPT 질문 기능
+### 👌 쿠폰 관리
 
 <p align='center'>
   <img width='300px' src = "https://user-images.githubusercontent.com/21376061/227177654-c95f47fa-7bc1-4014-b7f2-333eaed49272.png"/>
@@ -138,28 +140,10 @@
 
 * 직접 질문하기를 선택하면 직접 원하는 질문을 입력할 수 있습니다.
 
+### 👌 이벤트 관리
+
+### 👌 Q&A
+
 ## 🌟 상태관리
 @reduxjs/toolkit 라이브러리와 react-redux 라이브러리를 활용한 상태관리
 
-## 🌟 반응형 웹
-
-### 🧐 PC 화면
-
-<p align='center'>
-  <img width='500px' src = "https://user-images.githubusercontent.com/21376061/227180035-bb950c06-f0e6-4ff0-bbe0-af928c59a13a.png"/>
-</p>
-
-### 🧐 모바일 화면
-
-<p align='center'>
-  <img width='300px' src = "https://user-images.githubusercontent.com/21376061/227180153-e6fecc95-c715-4890-9066-3b2fb2d640ee.png"/>
-</p>
-
-## 🌟 배포
-
-<p align='center'>
-  <img width='400px' src = "https://user-images.githubusercontent.com/21376061/227180679-8af64a55-9e9f-4c09-a27c-f6dc4db01461.png"/>
-</p>
-
-* Front와 Server를 각각 github 저장소에 저장합니다.
-* Cloudtype 을 이용하여 각각의 앱을 배포합니다.
