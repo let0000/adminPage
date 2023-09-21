@@ -1,0 +1,27 @@
+.coupon {
+  flex: 5;
+  display: flex;
+  border: 2px solid rgb(240, 239, 239);
+}
+
+.couponTab {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.couponTitle {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  height: 50px;
+}
+
+.couponTitle > span {
+  font-size: 20px;
+}
+
+.couponTitleIcon {
+  margin: 0 10px;
+  font-size: 20px !important;
+}

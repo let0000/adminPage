@@ -1,0 +1,135 @@
+.eventContent {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  border-width: 2px 0 0 0;
+  border-style: solid;
+  border-color: rgb(240, 239, 239);
+}
+
+.eventList {
+  flex: 7;
+  border-width: 0 2px 0 0;
+  border-style: solid;
+  border-color: rgb(240, 239, 239);
+}
+
+.eventSearch {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  border-color: rgb(240, 239, 239);
+}
+
+.searchTitle {
+  margin: 0 30px;
+}
+
+.searchSelect {
+  margin-right: 10px;
+}
+
+.searchForm {
+  width: 30%;
+  margin-right: 10px;
+}
+
+.searchButton {
+  background-color: rgb(240, 239, 239);
+}
+
+.searchButton > button {
+  border-color: rgb(240, 239, 239);
+}
+
+.eventTableContainer {
+  max-height: 770px;
+  overflow-y: auto;
+  text-align: center;
+}
+
+.tableHeader {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.tableContent {
+  margin-top: -15px;
+}
+
+.eventInfo {
+  flex: 3;
+}
+
+.infoContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 30px 20px;
+  margin-top: 20px;
+}
+
+.infoFiled {
+  margin: 10px 20px;
+  display: flex;
+  align-items: center;
+}
+
+.filedName {
+  flex: 3;
+  margin-right: 20px;
+  text-align: start;
+}
+
+.filedForm {
+  flex: 7;
+  margin-right: 20px;
+}
+
+.filedDatePicker {
+  text-align: end;
+  margin-right: 20px;
+}
+
+.infoButton {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.infoButton > Button {
+  width: 40%;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+}
+
+.infoButton > Button:hover {
+  color: gray;
+}
+
+.infoButton > Button > span {
+  margin-left: 15px;
+}
+
+.selectedButton {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.selectedButton > Button {
+  width: 150px;
+  height: 50px;
+  color: white;
+}
+
+.selectedButton > Button > span {
+  margin-left: 10px;
+}
+
+.selectedButton > Button:hover {
+  color: grey;
+}

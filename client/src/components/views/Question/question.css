@@ -1,0 +1,31 @@
+.question {
+  flex: 5;
+}
+
+.question {
+  flex: 5;
+  display: flex;
+  border: 2px solid rgb(240, 239, 239);
+}
+
+.questionTab {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.questionTitle {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  height: 50px;
+}
+
+.questionTitle > span {
+  font-size: 20px;
+}
+
+.questionTitleIcon {
+  margin: 0 10px;
+  font-size: 20px !important;
+}

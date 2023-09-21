@@ -1,0 +1,27 @@
+.counselor {
+  flex: 5;
+  display: flex;
+  border: 2px solid rgb(240, 239, 239);
+}
+
+.counselorTab {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.counselorTitle {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  height: 50px;
+}
+
+.counselorTitle > span {
+  font-size: 20px;
+}
+
+.counselorTitleIcon {
+  margin: 0 10px;
+  font-size: 20px !important;
+}
