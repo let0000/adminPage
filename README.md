@@ -9,13 +9,13 @@
 
 <p align='center'>
     <img src="https://img.shields.io/badge/react-v18.2.0-61DAFB?logo=React"/>
-   <img src="https://img.shields.io/badge/react responsive-v9.0.2-61DAFB?logo=React"/>
-   <img src="https://img.shields.io/badge/@reduxjs/toolkit-^1.9.3-764ABC?logo=Redux"/>
-   <img src="https://img.shields.io/badge/react redux-^8.0.5-764ABC?logo=Redux"/>
-    <img src="https://img.shields.io/badge/@mui/material-^5.11.13-007fff?logo=mui"/>
-   <img src="https://img.shields.io/badge/@mui/icons material-^5.11.11-007fff?logo=mui"/>
-   <img src="https://img.shields.io/badge/axios-^1.3.4-5A29E4?logo=Axios"/>
-   <img src="https://img.shields.io/badge/react kakao maps sdk-^1.1.6-ffcd00?logo=Kakao"/>
+   <img src="https://img.shields.io/badge/react router dom-^6.14.2-CA4245?logo=reactrouter"/>
+   <img src="https://img.shields.io/badge/@reduxjs/toolkit-^1.9.5-764ABC?logo=Redux"/>
+   <img src="https://img.shields.io/badge/react redux-^8.1.2-764ABC?logo=Redux"/>
+    <img src="https://img.shields.io/badge/@mui/material-^5.14.7-007fff?logo=mui"/>
+   <img src="https://img.shields.io/badge/@mui/icons material-^5.14.7-007fff?logo=mui"/>
+   <img src="https://img.shields.io/badge/react bootstrap-^2.8.0-7952B3?logo=bootstrap"/>
+   <img src="https://img.shields.io/badge/axios-^1.4.0-5A29E4?logo=Axios"/>
 </p>
     
 ## 🌟 주요 페이지
